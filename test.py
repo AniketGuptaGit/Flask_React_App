@@ -1,2 +1,2 @@
 print("This is testing file for learning purpose of Jenkins")
-Print("Build triggered by Poll SCM")
+print("Build triggered by Poll SCM")
